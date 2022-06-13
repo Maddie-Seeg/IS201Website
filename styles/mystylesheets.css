@@ -1,0 +1,58 @@
+/*Madison Seegmiller June 13, 2022*/
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+  background-color: rgb(252, 236, 239);
+  color: rgb(128, 128, 128);
+}
+
+/*Color of the links*/
+.linkers{
+  color: rgb(128, 128, 128);
+}
+
+
+/*Center images on abut me page*/
+.centerimag{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.anchortext{
+    color: white;
+}
+
+/*Skills, Education, Work Experience Font on Home page.*/
+.orderFont{
+    font-family: "Open Sans";
+    font-size: 2rem;
+}
+
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+ 
+
+/* One more change for home page!
+
+four changes on about me page*/
